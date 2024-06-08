@@ -1,0 +1,247 @@
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\GoFarm.exe.config
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\GoFarm.exe
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\GoFarm.pdb
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.csproj.AssemblyReference.cache
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.Splash.resources
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.Properties.Resources.resources
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.csproj.GenerateResource.cache
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.csproj.CoreCompileInputs.cache
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.exe
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.pdb
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.csproj.CopyComplete
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.Login.resources
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\Guna.UI.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\Google.Protobuf.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\MySql.Data.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Buffers.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Memory.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\ZstdSharp.dll
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\Google.Protobuf.pdb
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\Google.Protobuf.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\MySql.Data.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Buffers.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Memory.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.Main.resources
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.Sapi.resources
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.Produksi.resources
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.Kesehatan.resources
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.Pembiakan.resources
+C:\Users\MSI KATANA\OneDrive\Dokumen\Pemrograman Desktop\GoFarm\GoFarm\obj\Debug\GoFarm.Penjualan.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\GoFarm.exe.config
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\GoFarm.exe
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\GoFarm.pdb
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\Google.Protobuf.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\MySql.Data.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Buffers.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.IO.Pipelines.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Memory.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\ZstdSharp.dll
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\Google.Protobuf.pdb
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\Google.Protobuf.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\MySql.Data.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Buffers.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.IO.Pipelines.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Memory.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.AssemblyReference.cache
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.Kesehatan.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.Login.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.Main.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.Pembiakan.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.Penjualan.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.Produksi.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.Sapi.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.Splash.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.Properties.Resources.resources
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.GenerateResource.cache
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.CoreCompileInputs.cache
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.CopyComplete
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.exe
+C:\Users\MICROSOFT\Downloads\GOFARM\GoFarm\obj\Debug\GoFarm.pdb
+E:\dekstop\GOFARM\GoFarm\bin\Debug\GoFarm.exe.config
+E:\dekstop\GOFARM\GoFarm\bin\Debug\GoFarm.exe
+E:\dekstop\GOFARM\GoFarm\bin\Debug\GoFarm.pdb
+E:\dekstop\GOFARM\GoFarm\bin\Debug\BouncyCastle.Cryptography.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\Google.Protobuf.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Hash.xxHash.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\MySql.Data.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Buffers.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.IO.Pipelines.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Memory.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Numerics.Vectors.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\ZstdSharp.dll
+E:\dekstop\GOFARM\GoFarm\bin\Debug\BouncyCastle.Cryptography.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\Google.Protobuf.pdb
+E:\dekstop\GOFARM\GoFarm\bin\Debug\Google.Protobuf.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Hash.xxHash.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\MySql.Data.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Buffers.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.IO.Pipelines.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Memory.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Numerics.Vectors.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\dekstop\GOFARM\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.AssemblyReference.cache
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Kesehatan.resources
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Login.resources
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Main.resources
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Pembiakan.resources
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Penjualan.resources
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Produksi.resources
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Sapi.resources
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Splash.resources
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Properties.Resources.resources
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.GenerateResource.cache
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.CoreCompileInputs.cache
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.CopyComplete
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.exe
+E:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.pdb
+D:\dekstop\GOFARM\GoFarm\bin\Debug\GoFarm.exe.config
+D:\dekstop\GOFARM\GoFarm\bin\Debug\GoFarm.exe
+D:\dekstop\GOFARM\GoFarm\bin\Debug\GoFarm.pdb
+D:\dekstop\GOFARM\GoFarm\bin\Debug\BouncyCastle.Cryptography.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\Google.Protobuf.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Hash.xxHash.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\MySql.Data.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Buffers.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.IO.Pipelines.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Memory.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Numerics.Vectors.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\ZstdSharp.dll
+D:\dekstop\GOFARM\GoFarm\bin\Debug\BouncyCastle.Cryptography.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\Google.Protobuf.pdb
+D:\dekstop\GOFARM\GoFarm\bin\Debug\Google.Protobuf.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Hash.xxHash.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\MySql.Data.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Buffers.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.IO.Pipelines.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Memory.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Numerics.Vectors.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\dekstop\GOFARM\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.AssemblyReference.cache
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Kesehatan.resources
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Login.resources
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Main.resources
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Pembiakan.resources
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Penjualan.resources
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Produksi.resources
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Sapi.resources
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Splash.resources
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Properties.Resources.resources
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.GenerateResource.cache
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.CoreCompileInputs.cache
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.CopyComplete
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.exe
+D:\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.pdb
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\GoFarm.exe.config
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\GoFarm.exe
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\GoFarm.pdb
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\BouncyCastle.Cryptography.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\Google.Protobuf.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Hash.xxHash.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\MySql.Data.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Buffers.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.IO.Pipelines.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Memory.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Numerics.Vectors.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\ZstdSharp.dll
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\BouncyCastle.Cryptography.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\Google.Protobuf.pdb
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\Google.Protobuf.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\K4os.Hash.xxHash.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\MySql.Data.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Buffers.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.IO.Pipelines.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Memory.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Numerics.Vectors.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.AssemblyReference.cache
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Kesehatan.resources
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Login.resources
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Main.resources
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Pembiakan.resources
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Penjualan.resources
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Produksi.resources
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Sapi.resources
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Splash.resources
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.Properties.Resources.resources
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.GenerateResource.cache
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.CoreCompileInputs.cache
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.csproj.CopyComplete
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.exe
+D:\POLITEKNIK NEGERI PADANG\Semester 3\dekstop\GOFARM\GoFarm\obj\Debug\GoFarm.pdb
